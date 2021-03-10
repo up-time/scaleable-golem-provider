@@ -3,7 +3,7 @@
   "profiles": {
     "default": {
       "cpu_threads": 3,
-      "mem_gib": 42.8972028195858,
+      "mem_gib": 35.8972028195858,
       "storage_gib": 286.1526153564453
     }
   }

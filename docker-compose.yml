@@ -3,7 +3,6 @@ version: '3.5'
 services:
 
   node:
-    image: golem-node/provider:dev
     build: .
     restart: always
     volumes:
