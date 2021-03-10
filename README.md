@@ -6,5 +6,8 @@ Just head into the /data-node/ya-provider/ directory and modify **globals.json**
 
 ## Spawning providers
 To spawn x amount of providers just simply run the following in the main directory:
-`Docker-compose up -d --scale node=x`
+`docker-compose up -d --scale node=x`
 
+
+### Important info
+These providers don't have the same wallet!
