@@ -1,5 +1,5 @@
 {
-  "node_name": "2recs-bikeXphillip-hustler-nodes",
-  "subnet": "devnet-beta.1",
+  "node_name": "node-name",
+  "subnet": "public-beta",
   "account": null
 }
